@@ -4,8 +4,7 @@ This project analyzes global COVID-19 data using PySpark. It covers various anal
 
 ## 📁 Dataset
 
-- **Source:** [Our World in Data (OWID)](https://ourworldindata.org/coronavirus)
-- **File Used:** [covid-data.csv](./covid-data.csv)
+- **Source:** [Our World in Data (OWID)](https://covid.ourworldindata.org/data/owid-covid-data.csv)
 - **Description:** Contains country-wise daily COVID-19 statistics including new cases, deaths, vaccinations, and testing information.
   
 
